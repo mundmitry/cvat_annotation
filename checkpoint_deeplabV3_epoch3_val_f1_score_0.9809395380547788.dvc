@@ -1,0 +1,5 @@
+outs:
+- md5: 8ab62c116af92f489a20d714e1cb568c.dir
+  size: 168285105
+  nfiles: 372
+  path: checkpoint_deeplabV3_epoch3_val_f1_score_0.9809395380547788
